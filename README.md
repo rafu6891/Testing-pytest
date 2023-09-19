@@ -24,4 +24,4 @@ Ensure you have `pytest` installed:
 pip install pytest
 
 
-![Test results](https://github.com/rafu6891/Testing-pytest/blob/9a4423c1c71663be5008c8654199edfbf6448ecf/Testing-pytest.png)
+![Test results](https://github.com/rafu6891/Testing-pytest/blob/main/Testing-pytest.png?raw=true)
