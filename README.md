@@ -22,3 +22,6 @@ Ensure you have `pytest` installed:
 
 ```bash
 pip install pytest
+
+
+![Test results](Testing-pytest.png)
