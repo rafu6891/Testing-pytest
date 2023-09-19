@@ -18,10 +18,4 @@ This repository contains a simple set of Python functions and their correspondin
 
 ## Running the tests
 
-Ensure you have `pytest` installed:
-
-```bash
-pip install pytest
-
-
-<span>Testing-pytest.png</span><span>)</span>
+![Test results](https://github.com/rafu6891/Testing-pytest/blob/main/Testing-pytest.png)
